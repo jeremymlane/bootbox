@@ -3,7 +3,7 @@
 	"description": "Bootbox Bootstrap Alerts",
 	"extra": {
 	      "branch-alias": {
-	        "dev-master": "4.x-master"
+	        "dev-master": "4.x-dev"
 	      }
 	  }
 }
