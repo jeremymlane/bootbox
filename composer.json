@@ -1,9 +1,4 @@
 {
 	"name": "jeremymlane/bootbox",
-	"description": "Bootbox Bootstrap Alerts",
-	"extra": {
-	      "branch-alias": {
-	        "dev-master": "4.x-dev"
-	      }
-	  }
+	"description": "Bootbox Bootstrap Alerts"
 }
